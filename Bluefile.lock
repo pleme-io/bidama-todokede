@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "bluefile_b3": "b3:f863273f41c878a1d24823e7868a07fe95640c31c770cbb52800410a3eae7541",
+  "manifest": {
+    "schema": 1,
+    "name": "bidama-todokede",
+    "version": "0.1.0",
+    "needs": {},
+    "when": "anytime",
+    "sources": {},
+    "packages": [
+      "bidamas"
+    ],
+    "runs": {},
+    "tools": [],
+    "checks": {},
+    "apps": {},
+    "catalog": null
+  },
+  "sources": {}
+}
